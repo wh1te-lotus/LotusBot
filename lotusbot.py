@@ -8,7 +8,6 @@ import threading
 from discord.utils import get
 from discord.ext import commands, tasks
 from discord.ext.commands import has_permissions, CheckFailure, check
-#^ basic imports for other features of discord.py and python ^
 
 client = discord.Client()
 
