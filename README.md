@@ -1,5 +1,5 @@
-LotusBot is a Discord server moderation bot with the capability to warn, mute, kick, and ban members.   
-You can add the bot by clicking on https://discord.com/api/oauth2/authorize?client_id=975511452045680650&permissions=1099780139014&scope=bot and following the steps on screen.  
+LotusBot is a Discord server moderation bot written using [discord.py](https://discordpy.readthedocs.io/) with the capability to warn, mute, kick, and ban members.   
+You can add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=975511452045680650&permissions=1099780139014&scope=bot) and following the steps on screen. LotusBot requires the VIEW_CHANNELS, READ_MESSAGE_HISTORY, SEND_MESSAGES, MANAGE_ROLES, KICK_MEMBERS, and BAN_MEMBERS permissions to function properly. 
   
 List of commands and the proper syntax:  
 !help   
